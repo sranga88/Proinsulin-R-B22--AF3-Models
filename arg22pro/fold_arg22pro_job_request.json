@@ -1,0 +1,18 @@
+[{
+ "name": "Arg22Pro",
+ "modelSeeds": [
+  "702876668"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "FVNQHLCGSHLVEALYLVCGEPGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+    "count": 1,
+    "useStructureTemplate": true
+   }
+  }
+ ],
+ "dialect": "alphafoldserver",
+ "version": 1
+}
+]

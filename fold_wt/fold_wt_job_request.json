@@ -1,0 +1,15 @@
+[{
+ "name": "WT",
+ "modelSeeds": [
+  "360624882"
+ ],
+ "sequences": [
+  {
+   "proteinChain": {
+    "sequence": "FVNQHLCGSHLVEALYLVCGERGFFYTPKTRREAEDLQVGQVELGGGPGAGSLQPLALEGSLQKRGIVEQCCTSICSLYQLENYCN",
+    "count": 1
+   }
+  }
+ ]
+}
+]
